@@ -1,0 +1,12 @@
+int gamePlay(MayhemPointer, LinkedListPointer, int);
+void printEneimes(LinkedListPointer);
+void printHero(MayhemPointer);
+int Fight(MayhemPointer *, MayhemPointer *, int);
+char *attacktype(int);
+int BattleTurnRandomness();
+int BattleRewardRandomness();
+void printEneimes(LinkedListPointer);
+void printHero(MayhemPointer);
+void DisplayStatsHero(MayhemPointer);
+void DisplayStatsEneime(MayhemPointer);
+void battleReward(MayhemPointer *);
